@@ -9,9 +9,13 @@ The goal of this project is to demonstrate SQL querying, joins, aggregations, an
 The analysis is performed using the following datasets:
 
 ->orders.csv – Order date and time information
+
 ->order_details.csv – Details of pizzas ordered and quantities
+
 ->pizzas.csv – Pizza size and price information
+
 ->pizza_types.csv – Pizza names and categories
+
 All datasets are stored inside the dataset/ folder.
 
 # Key Analysis & Insights
